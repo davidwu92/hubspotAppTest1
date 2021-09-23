@@ -1,0 +1,12 @@
+defaultPortal: davidjwu92
+portals:
+  - name: davidjwu92
+    portalId: 20761318
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CIr_n6vBLxIJAA0AAAAA4A0DGOaV8wkgmuLQDCju6QwyFBd2eMKrzZ5n8zPQIEtV-Q81AXiyOigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhTakb-tycLoGjepbNAUuDm15ButTUoDbmExUgBaAA
+        expiresAt: '2021-09-24T01:25:09.647Z'
+    personalAccessKey: >-
+      CiRjNjY0ZmMzMi0wMDI0LTQzZmQtOTJlNi0wMDIyNTRmNmJiOTcQ5pXzCRia4tAMKhkABeaRgtFY3RRgv_h6K6EZARdunNxAO6FPSgNuYTE
